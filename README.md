@@ -1,4 +1,4 @@
-<h3 align="center">Aspiring Engineer</h3>
+<h1 align="center">A R N A V</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
